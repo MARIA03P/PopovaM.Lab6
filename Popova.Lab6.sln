@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Popova.Lab6.Ex1", "Popova.Lab6.Ex1\Popova.Lab6.Ex1.csproj", "{1E5785A3-B777-491B-AB94-FD26A571D599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Popova.Lab6.Ex2", "Popova.Lab6.Ex2\Popova.Lab6.Ex2.csproj", "{7B8313F3-8D3F-40F3-B412-16AE477D5A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E5785A3-B777-491B-AB94-FD26A571D599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5785A3-B777-491B-AB94-FD26A571D599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5785A3-B777-491B-AB94-FD26A571D599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5785A3-B777-491B-AB94-FD26A571D599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B8313F3-8D3F-40F3-B412-16AE477D5A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8313F3-8D3F-40F3-B412-16AE477D5A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8313F3-8D3F-40F3-B412-16AE477D5A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8313F3-8D3F-40F3-B412-16AE477D5A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8729154-BA18-491F-BB99-48B4B334E0EE}
+	EndGlobalSection
+EndGlobal
